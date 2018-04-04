@@ -102,14 +102,7 @@ width:563px;
 	position:relative;
 }
 
-.imgTwo {
-width:200px;
-	position:relative;
-    left: 50%;
-    bottom: 150;
-
-	
-}
+.imgTwo {width:200px;position:relative;left: 50%;height: 150px;bottom: 150;}
 
 .imgThree {width:200px;height: 150;position: relative;bottom: 60;left: 71;}
 
@@ -132,35 +125,19 @@ width:200px;
 
 .textcenteredTwo {position: absolute;color: white;background-color: teal;padding: 10px;width: 180px;top: 28%;left: 51.5%;text-align: center;}
 
-.textcenteredThree {
-position: relative;
-background-color: teal;
-padding: 10px;
-width: 180px;
-/* left: 51.5%; */
-text-align: center;
-color: white;
-bottom: 110;
-left: 80;
-}
+.textcenteredThree {position: relative;background-color: teal;padding: 10px;width: 180px;/* left: 51.5%; */text-align: center;color: white;bottom: 105;left: 80;}
 
-.imgFour {
-width:200px;
-position: relative;
-bottom: 250;
-left: 330;
-}
+.imgFour {width:200px;position: relative;height: 150px;bottom: 250;left: 330;}
 
 .textcenteredFour {
-
-    position: relative;
-    background-color: teal;
-    padding: 10px;
-    width: 180px;
-    /* left: 51.5%; */
-    text-align: center;
-    color: white;
-    bottom: 300;
-    left: 340;
-
+position: relative;
+background-color: teal;
+/* background-image: url(https://media.giphy.com/media/T2jQyysEp3rS8/giphy.gif); */
+padding: 10px;
+width: 180px;
+/* left: 51.5%; */
+text-align: center;
+color: white;
+bottom: 295;
+left: 340;
 }
